@@ -1,0 +1,17 @@
+{
+    "name": "ajtoolbox/database",
+    "description": "",
+    "type": "library",
+    "license": "BSD 3-Clause License",
+    "authors": [
+        {
+            "name": "Alexander Jentz",
+            "email": "86450760+AlexJentz@users.noreply.github.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "AJToolbox\\Database": "src/"
+        }
+    }
+}
